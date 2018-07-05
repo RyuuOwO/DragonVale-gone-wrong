@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "dv:gem"
+        }
+    },
+   
+    "result":
+    {
+        "item": "dv:block_gem",
+        "count": 1
+    }
+}

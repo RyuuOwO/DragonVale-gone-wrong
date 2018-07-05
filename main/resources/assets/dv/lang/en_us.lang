@@ -1,0 +1,28 @@
+itemGroup.dvblockstab=Dragonvale - Blocks
+itemGroup.dvdragonstab=Dragonvale - Dragons
+itemGroup.dvitemstab=Dragonvale - Items
+
+item.gem.name=Gem
+item.coin.name=Coin
+item.hoe_gem.name=Gem Hoe
+item.sword_gem.name=Gem Sword
+item.pickaxe_gem.name=Gem Pickaxe
+item.axe_gem.name=Gem Axe
+item.shovel_gem.name=Gem Shovel
+item.helmet_gem.name=Gem Helmet
+item.leggings_gem.name=Gem Leggings
+item.chestplate_gem.name=Gem Chestplate
+item.boots_gem.name=Gem Boots
+item.sack.name=Sack
+item.sackofcoins.name=Sack of Coins
+
+
+tile.block_gem.name=Gem Block
+tile.block_gemore.name=Gem Ore
+tile.block_volcanicrock.name=Volcanic Rock
+tile.block_rock.name=Rock
+tile.block_cactus.name=Cactus
+tile.block_market.name=Market Block
+tile.block_plantation.name=Plantation Block
+tile.block_nursery.name=Nursery Block
+tile.block_ei.nameEssence Infuser
